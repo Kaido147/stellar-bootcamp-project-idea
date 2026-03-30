@@ -1,0 +1,8 @@
+/target/
+**/*.wasm
+Cargo.lock
+test_snapshots/
+.env
+.idea/
+.vscode/
+*.swp
